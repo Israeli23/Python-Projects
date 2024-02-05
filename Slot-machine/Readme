@@ -1,1 +1,28 @@
+This Python-based command-line game allows you to experience the excitement of playing a slot machine right from your terminal.
 
+Features
+
+User Interaction: Interact with the game through the terminal, making it easy to play.
+Customisation: Adjust the number of lines to bet on and the bet amount per line to suit your preference.
+Randomised Spins: Each spin generates random symbols, ensuring every game is unique.
+Winnings Calculation: The game calculates your winnings based on the symbols aligned on the pay lines.
+Simple and Enjoyable: Experience a simple yet entertaining game.
+
+How to Play
+
+Deposit: Start by depositing an initial amount of money.
+Place Bet: Choose the number of lines to bet on and the amount to bet per line.
+Spin: Watch the fruit machine spin and see if you win!
+Repeat: Keep playing until you decide to quit.
+
+Requirements
+Python 3.x
+
+How to Run
+
+Clone this repository to your local machine.
+Navigate to the directory containing the game files.
+Run the slots_game.py file using Python: python slots-machine-game.py
+
+Contributions
+Contributions are welcome! If you have any suggestions, bug fixes, or additional features you'd like to see added to the game, feel free to open an issue or submit a pull request.
