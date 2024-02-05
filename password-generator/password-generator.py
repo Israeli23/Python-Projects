@@ -19,6 +19,8 @@ def password_generator(min_length, numbers=True, special_characters=True):
 
     return password
 
+
+min_length = int(input("Enter the minimum length you want your password to be: "))
 password = password_generator(10)
 print(password)
 
